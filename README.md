@@ -1,1 +1,19 @@
-# projeto-carros
+# Projeto Carros
+
+Projeto criativo com HTML, CSS e JavaScrip do Site
+https://jornadadodev.com.br/
+
+Curso de JavaScript
+https://jornadadodev.com.br/cursos/front-end/javascript
+
+Link do Projeto no GitHub Pages</br>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+
+</br></br>
